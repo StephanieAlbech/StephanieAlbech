@@ -24,6 +24,8 @@ Sou estudante de tecnologia e desenvolvedora **Front-end em formação**, atualm
 
 Meu objetivo é evoluir para o desenvolvimento **Full-Stack**, unindo desenvolvimento de interfaces, lógica de programação, back-end e bancos de dados.
 
+🎓 Cursando **Engenharia de computação**  
+
 🎯 **Objetivo:** conquistar minha primeira oportunidade na área de desenvolvimento e continuar evoluindo profissionalmente.
 
 🌱 **Atualmente:** estudando e colocando em prática novos projetos.
