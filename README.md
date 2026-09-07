@@ -42,7 +42,7 @@ Meu objetivo é evoluir para o desenvolvimento **Full-Stack**, unindo desenvolvi
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,sql" />
+<img src="https://skillicons.dev/icons?i=nodejs,sql,c" />
 
 </div>
 
