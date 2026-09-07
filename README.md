@@ -122,11 +122,10 @@ Banco de Dados
   <img src="https://img.shields.io/badge/GitHub-StephanieAlbech-181717?style=for-the-badge&logo=github">
 </a>
 
-<!-- Adicione seu LinkedIn aqui quando quiser:
-<a href="SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/stephanie-frança-de-albeche-a44680349/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
--->
+
 
 </div>
 
