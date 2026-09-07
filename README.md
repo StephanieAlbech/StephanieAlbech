@@ -1,16 +1,17 @@
-## Hi there 👋
+# Oii! Eu sou a Stephanie 👋
 
-<!--
-**StephanieAlbech/StephanieAlbech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedora Front-end - A caminho do fullstack  
+🌱 Formação em andamento em engenharia da computação  
+🚀 Em busca da minha primeira oportunidade na área
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+## 📚 Atualmente estudando
+
+- C
