@@ -1,5 +1,5 @@
-      ## ✦ Stephanie ✦
-       Front-end Developer
+         ✦ Stephanie ✦
+     - Front-end Developer -
 
    💻 HTML • CSS • JavaScript
    🌱 Atualmente cursando Engenharia da computação
