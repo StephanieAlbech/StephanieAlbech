@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>✦ Oii! Eu sou a Stephanie ✦</h1>
+  <h1>✦ 🌷 Stephanie | Code & Creativity ✦</h1>
 
 ### 💻 Desenvolvedora Front-end em formação
 
