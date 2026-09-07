@@ -84,7 +84,7 @@ Back-end
 Banco de Dados
     │
     ▼
-       🚀 Full-Stack
+🚀 Full-Stack
 ```
 
 ---
@@ -99,18 +99,6 @@ Banco de Dados
 * 🌐 Desenvolvimento Full-Stack
 * 📦 Boas práticas de Git e GitHub
 * 🧩 Desenvolvimento de projetos completos
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=StephanieAlbech&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanieAlbech&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
 
 ---
 
