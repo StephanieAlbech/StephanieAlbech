@@ -21,7 +21,7 @@
 
       📚 CURRENTLY LEARNING
 
-   JavaScript • Node.js • SQL
+   C • React • SQL
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
