@@ -1,6 +1,6 @@
 <div align="center">
 
-  ##✦ Olá! Eu sou a Stephanie ✦
+  <h1>✦ Olá! Eu sou a Stephanie ✦</h1>
 
 ### 💻 Desenvolvedora Front-end em formação
 
