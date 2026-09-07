@@ -1,17 +1,31 @@
-# Oii! Eu sou a Stephanie 👋
+         ✦ Stephanie ✦
+       Front-end Developer
 
-💻 Desenvolvedora Front-end - A caminho do fullstack  
-🌱 Formação em andamento em engenharia da computação  
-🚀 Em busca da minha primeira oportunidade na área
+   💻 HTML • CSS • JavaScript
+   🌱 Atualmente estudando Full-Stack
+   🚀 Construindo projetos e evoluindo
 
-## 🛠️ Tecnologias
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-- HTML
-- CSS
-- JavaScript
-- Git
-- GitHub
+         🛠️ TECH STACK
 
-## 📚 Atualmente estudando
+   HTML    CSS    JavaScript
+   Git     GitHub  Node.js
 
-- C
+        🚀 PROJETOS
+
+   📱 Projeto Android
+   🌐 Projeto Social
+   📝 To-do List
+   🌦️ Weather App
+
+      📚 CURRENTLY LEARNING
+
+   JavaScript • Node.js • SQL
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+       📫 CONTATO
+[Meu LinkedIn](https://www.linkedin.com/in/stephanie-frança-de-albeche-a44680349/)
+
+       
