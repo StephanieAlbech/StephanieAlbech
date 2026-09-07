@@ -1,8 +1,8 @@
-         ✦ Stephanie ✦
+      ## ✦ Stephanie ✦
        Front-end Developer
 
    💻 HTML • CSS • JavaScript
-   🌱 Atualmente estudando Full-Stack
+   🌱 Atualmente cursando Engenharia da computação
    🚀 Construindo projetos e evoluindo
 
   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -26,6 +26,6 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
        📫 CONTATO
-[Meu LinkedIn](https://www.linkedin.com/in/stephanie-frança-de-albeche-a44680349/)
+✉️[LinkedIn](https://www.linkedin.com/in/stephanie-frança-de-albeche-a44680349/)
 
        
